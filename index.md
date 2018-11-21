@@ -654,7 +654,6 @@ and our administrator may contact you if we need any extra information.</h4>
   </div>
 </div> {% comment %} End of 'R' section. {% endcomment %}
 
-
 {% comment %}
 <div id="vm">
   <h3>Virtual Machine</h3>
