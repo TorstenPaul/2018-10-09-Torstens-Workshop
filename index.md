@@ -189,7 +189,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 {% endif %}
 -->
 <p>
-  <strong>Attention: We changed the room to the seminar room of the GSLS building
+  <strong>Attention: We changed the room to the seminar room of the GSLS building:
   Graduate School of Life Sciences
   Beatrice-Edgell-Weg 21
   Campus Hubland Nord
