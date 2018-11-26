@@ -188,6 +188,13 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 <p><a href="{{ site.lc_post_survey }}{{ site.github.project_title }}">Post-workshop Survey</a></p>
 {% endif %}
 -->
+<p>
+  <strong>Attention: We changed the room to the seminar room of the GSLS building
+  Graduate School of Life Sciences
+  Beatrice-Edgell-Weg 21
+  Campus Hubland Nord
+  97074 Würzburg</strong>
+</p>
 <hr/>
 
 
